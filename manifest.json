@@ -3,7 +3,7 @@
     "name": "Twitch Chat Self Moderator",
     "version": "1.0",
     "description": "Manage forbidden words in Twitch chat based on streamer tags.",
-    "permissions": ["storage", "scripting", "tabs"],
+    "permissions": ["storage", "tabs"],
     "action": {
       "default_popup": "settings.html",
       "default_icon": {
